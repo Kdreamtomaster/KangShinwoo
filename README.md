@@ -3,4 +3,24 @@
 
 
 
-![Physics](https://img.shields.io/badge/Physics-333333?style=flat-square&logo=atom&logoColor=white)![Chemistry](https://img.shields.io/badge/Chemistry-008080?style=flat-square&logo=flask&logoColor=white)![Life Science](https://img.shields.io/badge/Life%20Science-4B0082?style=flat-square&logo=dna&logoColor=white)
+![ECE](https://img.shields.io/badge/ECE-333333?style=flat-square&logo=atom&logoColor=white)!
+
+
+ 분류                            | 기술 스택                                       |
+|---------------------------------|------------------------------------------------|
+| **프로그래밍 언어**             | Python, Java (예정), C (예정)                  |
+| **웹 기술**                     | HTML, CSS                                      |
+| **데이터 처리**                 | Apache Spark, Apache Flink (예정)              |
+| **데이터베이스**                | MySQL, PostgreSQL                              |
+| **데이터 저장소**               | Snowflake (예정)                              |
+| **ETL 도구**                   | Apache Airflow                                 |
+| **메시지 브로커**               | Apache Kafka                                   |
+| **클라우드 플랫폼**             | AWS, GCP                                      |
+| **컨테이너 및 오케스트레이션**  | Docker, Kubernetes                             |
+| **모니터링 및 로깅**            | ELK                                           |
+| **데이터 시각화**               | Tableau, Plotly                                |
+| **머신 러닝 및 딥러닝**         | TensorFlow, PyTorch, scikit-learn, SciPy      |
+| **버전 관리**                   | GitLab, GitHub                                 |
+| **CI/CD 도구**                 | Jenkins (예정), GitHub Actions (예정)          |
+| **웹 크롤링**                 | Beautiful Soup, Selenium                       |
+| **IDE**                         | VSCode, PyCharm, IntelliJ                      |
