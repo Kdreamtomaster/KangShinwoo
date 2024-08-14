@@ -3,7 +3,7 @@
 
 
 
-![Eelctronical Computer Engineering](https://img.shields.io/badge/ECE-333333?style=flat-square&logo=atom&logoColor=white)!
+![Electronical Computer Engineering](https://img.shields.io/badge/Electronical Computer Engineering-333333?style=flat-square&logo=atom&logoColor=white)!
 
 
  분류                            | 기술 스택                                       |
