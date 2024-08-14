@@ -8,14 +8,14 @@
 
  분류                            | 기술 스택                                       |
 |---------------------------------|------------------------------------------------|
-| **프로그래밍 언어**             | Python, Java (예정), C (예정)                  |
+| **프로그래밍 언어**             | Python, Java , C                  |
 | **웹 기술**                     | HTML, CSS                                      |
-| **데이터 처리**                 | Apache Spark, Apache Flink (예정)              |
+| **데이터 처리**                 | Apache Spark          |
 | **데이터베이스**                | MySQL, PostgreSQL                              |
 | **데이터 저장소**               | Snowflake (예정)                              |
 | **ETL 도구**                   | Apache Airflow                                 |
 | **메시지 브로커**               | Apache Kafka                                   |
-| **클라우드 플랫폼**             | AWS, GCP                                      |
+| **클라우드 플랫폼**             | AWS, GCP , OpenStack(프라이빗 클라우드)                                     |
 | **컨테이너 및 오케스트레이션**  | Docker, Kubernetes                             |
 | **모니터링 및 로깅**            | ELK                                           |
 | **데이터 시각화**               | Tableau, Plotly                                |
