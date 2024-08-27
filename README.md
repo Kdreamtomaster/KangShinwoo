@@ -6,7 +6,7 @@
 ![Electronical Computer Engineering](https://img.shields.io/badge/ElectronicalComputerEngineering-333333?style=flat-square&logo=atom&logoColor=white)
 
 
-![KANGSHINWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kdreamtomaster&theme=dark&show_icons=true?theme=swift)
+![KANGSHINWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kdreamtomaster&theme=swift&show_icons=true?)
 
  분류                            | 기술 스택                                       |
 |---------------------------------|------------------------------------------------|
