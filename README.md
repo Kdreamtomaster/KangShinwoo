@@ -21,7 +21,7 @@
 | **모니터링 및 로깅**            | ELK                                           |
 | **데이터 시각화**               | Tableau, Plotly                                |
 | **머신 러닝 및 딥러닝**         | PyTorch, scikit-learn      |
-| **버전 관리**                   | GitLab, GitHub                                 |
+| **버전 관리**                   | GitHub                                 |
 | **CI/CD 도구**                 |  GitHub Actions          |
 | **웹 크롤링**                 | Beautiful Soup, Selenium                       |
 | **IDE**                         | VSCode, IntelliJ                      |
